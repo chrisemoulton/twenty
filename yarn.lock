@@ -26154,17 +26154,10 @@ __metadata:
   languageName: node
   linkType: hard
 
-"graphql@npm:*, graphql@npm:0.13.1 - 16, graphql@npm:14 - 16, graphql@npm:^16.6.0, graphql@npm:^16.8.1":
+"graphql@npm:*, graphql@npm:0.13.1 - 16, graphql@npm:14 - 16, graphql@npm:16.8.1, graphql@npm:^16.8.1":
   version: 16.8.1
   resolution: "graphql@npm:16.8.1"
   checksum: 129c318156b466f440914de80dbf7bc67d17f776f2a088a40cb0da611d19a97c224b1c6d2b13cbcbc6e5776e45ed7468b8432f9c3536724e079b44f1a3d57a8a
-  languageName: node
-  linkType: hard
-
-"graphql@npm:16.8.0":
-  version: 16.8.0
-  resolution: "graphql@npm:16.8.0"
-  checksum: f7ca0302e8d658012db90b428ec66c1453afe53fbffa21404a28b5bdec5b0e88641d38416ef3d582acad7ddde2effe729e2b050a1483a2e9d4a6111e892e4903
   languageName: node
   linkType: hard
 
@@ -43002,7 +42995,7 @@ __metadata:
     clsx: "npm:^1.2.1"
     docusaurus-node-polyfills: "npm:^1.0.0"
     graphiql: "npm:^2.4.7"
-    graphql: "npm:^16.6.0"
+    graphql: "npm:^16.8.1"
     iframe-resizer-react: "npm:^1.1.0"
     prism-react-renderer: "npm:^2.1.0"
     raw-loader: "npm:^4.0.2"
@@ -43091,7 +43084,7 @@ __metadata:
     eslint-plugin-twenty: "file:../eslint-plugin-twenty/eslint-plugin-twenty.tgz"
     eslint-plugin-unused-imports: "npm:^3.0.0"
     framer-motion: "npm:^10.12.17"
-    graphql: "npm:^16.6.0"
+    graphql: "npm:^16.8.1"
     hex-rgb: "npm:^5.0.0"
     http-server: "npm:^14.1.1"
     immer: "npm:^10.0.2"
@@ -43216,7 +43209,7 @@ __metadata:
     eslint-plugin-unused-imports: "npm:^3.0.0"
     file-type: "npm:16.5.4"
     googleapis: "npm:105"
-    graphql: "npm:16.8.0"
+    graphql: "npm:16.8.1"
     graphql-fields: "npm:^2.0.3"
     graphql-subscriptions: "npm:2.0.0"
     graphql-tag: "npm:^2.12.6"
