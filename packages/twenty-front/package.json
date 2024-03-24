@@ -159,7 +159,7 @@
     "storybook-addon-cookie": "^3.1.0",
     "storybook-addon-pseudo-states": "^2.1.2",
     "typescript": "^5.2.2",
-    "vite": "^5.0.0",
+    "vite": "^5.0.12",
     "vite-plugin-svgr": "^4.2.0"
   },
   "engines": {
